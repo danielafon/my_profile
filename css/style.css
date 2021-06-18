@@ -1060,7 +1060,7 @@ a.btn:focus{
 
 @media (max-width:480px) {
 	body{font-size: 14px;}
-	.hero { background: url(../img/bg1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20% 0 0 0; height: 100%; }
+	.hero { background: url(../images/pp.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20% 0 0 0; height: 100%; }
 	.hero h1 { font-size: 25px; letter-spacing: 5px; margin-bottom:30px;  font-weight: 900; color: #3DC9B3;}
 	.hero h2 { font-size: 20px;   font-weight: 900; color: #fff;}
 	.hero h1 span { color: #a1a9b0; display: inline-block; }
