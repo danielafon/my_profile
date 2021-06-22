@@ -1,0 +1,12 @@
+name: BostonAirbnb
+title: BostonAirbnb
+username:
+account: newyorkapp2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3913832
+bundleId: 4434802
+url: https://newyorkapp2.shinyapps.io/BostonAirbnb/
+when: 1617656203.72162
+asMultiple: FALSE
+asStatic: FALSE

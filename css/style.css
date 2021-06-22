@@ -14,7 +14,7 @@ body {
     height: 100%;
     font-family: Avenir, 'Ek Mukta', sans-serif;
 	font-weight: 300;
-    color: #566;
+    color: #666;
     background-color: #fff;
 	font-size: 16px;
     line-height: 1.6em;
@@ -424,7 +424,7 @@ hr.bold {
 --- Intro
 ============================ */
 
-.hero { background: url(../images/pp.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
+.hero { background: url(../img/bg1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 .hero h1 { font-size: 41px; letter-spacing: 10px; margin: 40px 0 10px; font-weight: 900; color: #fff;}
 .hero h2 { font-size: 30px; letter-spacing: 5px; margin: 40px 0 10px; font-weight: 900; color: #cad0ff;}
 .hero h1 span { color: #343640; display: inline-block; }
@@ -575,9 +575,8 @@ h
 ============================ */
 
 .table-condensed>thead>tr>th, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>tbody>tr>td, .table-condensed>tfoot>tr>td{
-    padding: 12px 20 px;
+    padding: 12px;
     padding-left: 2em;
-    
 }
 
 
@@ -1060,7 +1059,7 @@ a.btn:focus{
 
 @media (max-width:480px) {
 	body{font-size: 14px;}
-	.hero { background: url(../images/pp.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20% 0 0 0; height: 100%; }
+	.hero { background: url(../img/bg1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 20% 0 0 0; height: 100%; }
 	.hero h1 { font-size: 25px; letter-spacing: 5px; margin-bottom:30px;  font-weight: 900; color: #3DC9B3;}
 	.hero h2 { font-size: 20px;   font-weight: 900; color: #fff;}
 	.hero h1 span { color: #a1a9b0; display: inline-block; }
@@ -1176,7 +1175,6 @@ a.project-link{
 
 #avatar{
   border-radius: 50%;
-  vertical-align: top;
 }
 
 #contact-padding
